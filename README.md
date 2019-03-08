@@ -1,5 +1,4 @@
 # Log Analysis
-This is my solution for project no 1 of Udacity Full Stack Web Developer Nanodegree.
 
 ## Description ##
 
